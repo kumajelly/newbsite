@@ -13,3 +13,14 @@ navigation:
     url: /learning-stories.html
   - text: Archive
     url: /archive.html
+
+# Markdown configuration
+markdown: kramdown
+
+# Theme
+theme: minima # Optional, use a Jekyll theme if preferred
+
+# Plugins (Optional)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
