@@ -1,3 +1,8 @@
+---
+layout: page
+title: Enablement Portfolio
+permalink: /enablement-portfolio
+---
 # Sean Ward
 ## Technology Transformation and Enablement Specialist
 
