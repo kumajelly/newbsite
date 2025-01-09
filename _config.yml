@@ -1,0 +1,15 @@
+title: Sean's Pochade Box
+description: A simple portfolio site showcasing my work.
+baseurl: "" # Leave blank if hosted at root on GitHub Pages
+url: "https://yourusername.github.io" # Update with your GitHub Pages URL
+
+# Navigation
+navigation:
+  - text: About
+    url: /
+  - text: Resume
+    url: /resume.html
+  - text: Learning Stories
+    url: /learning-stories.html
+  - text: Archive
+    url: /archive.html
