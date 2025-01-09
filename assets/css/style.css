@@ -1,0 +1,45 @@
+/* General Styling */
+body {
+    font-family: 'Noto Sans', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Header Styling */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans', sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    color: #333;
+}
+
+/* Link Styling */
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styling */
+section {
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+/* Footer Styling */
+footer {
+    margin: 20px auto;
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+}
