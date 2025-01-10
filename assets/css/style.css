@@ -13,6 +13,7 @@ h1, h2, h3, h4, h5, h6 {
     font-style: italic;
     font-weight: normal;
     color: #333;
+    margin: 20px auto;
 }
 
 /* Link Styling */
@@ -28,7 +29,7 @@ a:hover {
 /* Section Styling */
 section {
     margin: 20px auto;
-    max-width: 800px;
+    max-width: 500px;
     text-align: center;
 }
 
