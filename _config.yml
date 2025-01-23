@@ -5,12 +5,8 @@ url: "https://yourusername.github.io" # Update with your GitHub Pages URL
 
 # Navigation
 navigation:
-  - text: About
+  - text: Home
     url: /
-  - text: Resume
-    url: /resume.html
-  - text: Learning Stories
-    url: /enablement-portfolio.html
   - text: Archive
     url: /archive.html
 
